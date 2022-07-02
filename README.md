@@ -1,4 +1,4 @@
-## SQL Tem Profile Generator
+## Team Profile Generator
 
 ### Description
 
